@@ -1,0 +1,7 @@
+{
+  "name": "JobGenie AI - SEO Job Offer Creator",
+  "description": "Transform Excel sheets or images of job listings into professional, SEO-optimized job offers automatically using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
